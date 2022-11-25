@@ -1,6 +1,6 @@
 ### Hi there 👋
 ![](https://komarev.com/ghpvc/?username=akrielz&color=green)
-- 🔭 I’m currently working on an Deep Learning project
+- 🔭 I’m currently working on Deep Learning project
 - 💬 Ask me about Deep Learning, Artificial Intelligence, Machine Learning, Machine Vision, Natural Language Processing, Data Science
 - 📫 Reach me by: 
   - email at stirbu.alexandru.net@outlook.com 
