@@ -3,7 +3,7 @@
 - 🔭 I’m currently working on Deep Learning projects
 - 💬 Ask me about Deep Learning, Artificial Intelligence, Machine Learning, Machine Vision, Natural Language Processing, Data Science
 - 📫 Reach me by: 
-  - email at stirbu.alexandru.net@outlook.com 
+  - email at <a href=https://www.linkedin.com/in/akriel/> <text>&#x202e;moc.kooltou@ten.urdnaxela.ubrits </text> </a>
   - connect with me on LinkedIn at https://www.linkedin.com/in/akriel/
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=akrielz&count_private=true&theme=tokyonight&hide_border=true&show_icons=true&hide=prs,issues)](https://github.com/Akrielz#gh-dark-mode-only)
