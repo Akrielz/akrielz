@@ -10,7 +10,7 @@
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=akrielz&count_private=true&hide_border=true&show_icons=true&hide=prs,issues)](https://github.com/Akrielz#gh-light-mode-only)
 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=akrielz&langs_count=3&hide_border=true&theme=tokyonight)](https://github.com/Akriel#gh-dark-mode-only)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=akrielz&langs_count=3&hide_border=true&theme=tokyonight)](https://github.com/Akrielz#gh-dark-mode-only)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=akrielz&langs_count=3&hide_border=true)](https://github.com/Akrielz#gh-light-mode-only)
 
 [![Streak](https://github-readme-streak-stats.herokuapp.com/?user=akrielz&hide_border=true&theme=tokyonight)](https://github.com/Akrielz#gh-dark-mode-only)
