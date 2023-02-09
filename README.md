@@ -3,18 +3,16 @@
 - 🚀 I'm currently working as an AI Scientist at Ordaos Bio
 - 🔭 In my free time I'm working on Deep Learning projects
 - 💬 Ask me about Deep Learning, Artificial Intelligence, Machine Learning, Machine Vision, Natural Language Processing, Data Science
-- 📫 Reach me by: 
-  - email at <text> &#x202e;moc.kooltuo@ten.urdnaxela.ubrits </text>
-  - connect with me on LinkedIn at https://www.linkedin.com/in/akriel/
 
-### Feel free to connect with me on LinkedIn 🌐
+### Reach me by:
+
+#### LinkedIn
 
 [<img align="left" alt="Alexandru Stirbu | LinkedIn" width="48px" src="https://github.com/devicons/devicon/blob/v2.15.1/icons/linkedin/linkedin-original.svg" />][linkedin]
 <br/>
 <br/>
-<br/>
 
-### Or to send me a mail on
+#### Email
 
 <text> &#x202e;moc.kooltuo@ten.urdnaxela.ubrits </text>
 
