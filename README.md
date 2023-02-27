@@ -1,8 +1,10 @@
-### Hi there 👋
+### Hi there!
+
 ![](https://komarev.com/ghpvc/?username=akrielz&color=green)
-- 🚀 I'm currently working as an AI Scientist at Ordaos Bio
-- 🔭 In my free time I'm working on Deep Learning projects
-- 💬 Ask me about Deep Learning, Artificial Intelligence, Machine Learning, Machine Vision, Natural Language Processing, Data Science
+
+- I'm currently working as an AI Scientist at Ordaos Bio
+- In my free time I'm working on Deep Learning projects
+- Ask me about Deep Learning, Artificial Intelligence, Machine Learning, Machine Vision, Natural Language Processing, Data Science
 
 ### Reach me by:
 
