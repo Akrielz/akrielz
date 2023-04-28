@@ -4,7 +4,7 @@
 
 - I'm currently working as an AI Scientist at Ordaos Bio
 - In my free time I'm working on Deep Learning projects
-- Ask me about Deep Learning, Artificial Intelligence, Machine Learning, Machine Vision, Natural Language Processing, Data Science
+- Feel free to reach out and ask me anything about AI!
 
 ### Reach me by:
 
