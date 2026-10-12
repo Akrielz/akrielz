@@ -2,7 +2,7 @@
 
 ![](https://komarev.com/ghpvc/?username=akrielz&color=green)
 
-- I'm currently working as an AI Scientist at Ordaos Bio
+- I'm currently working as an Senior AI Scientist
 - In my free time I'm working on Deep Learning projects
 - Feel free to reach out and ask me anything about AI!
 
